@@ -18,7 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=omkarkardel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Omkar Kardel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkardel&theme=tokyonight)
+[![Omkar Kardel's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkardel&theme=tokyonight)](https://github-readme-activity-graph.vercel.app/graph?username=omkarKardel&theme=react-dark
+)
 
 
 
