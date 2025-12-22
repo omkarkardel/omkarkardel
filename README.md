@@ -1,7 +1,12 @@
 
-<h1>👋 Hi, I'm Omkar Kardel</h1><br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Omkar+Kardel;Web+Developer;Lifelong+Learner" />
+</p>
+
+---
+
 🎓 Undergraduate Student at MCOERC Nashik<br>
-🌱 I’m currently learning Cloud Computing<br>
+🌱 I’m currently exploring Cloud Computing and ML<br>
 💡 Passionate about creating efficient, scalable software solutions<br>
 🌐 My Portfolio: <a href="https://kardel-omkar.netlify.app" target="_blank">Visit Portfolio</a>
 <br>
@@ -10,7 +15,7 @@
   <li>Web Development</li>
   <li>Data Structures & Algorithms</li>
 </ul> 
-📫 How to reach me:
+📧 reach me:
 <a href="mailto:omkarkardel175@gmail.com">omkarkardel175@gmail.com</a>
 
 ---
