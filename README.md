@@ -8,7 +8,7 @@
 🎓 Undergraduate Student at MCOERC Nashik<br>
 🌱 I’m currently exploring Cloud Computing and ML<br>
 💡 Passionate about creating efficient, scalable software solutions<br>
-🌐 My Portfolio: <a href="https://my-portfolio-nj25.vercel.app/" target="_blank">Visit Portfolio</a>
+🌐 My Portfolio: <a href="https://kardel-omkar.netlify.app/" target="_blank">Visit Portfolio</a>
 <br>
 💬 Ask me about:
 <ul>
