@@ -30,9 +30,8 @@
 
 ---
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarkardel&theme=react-dark)
+<!-- ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=#&theme=react-dark)-->
 
----
 ## 🧾 Profile Visits
 ![Profile Views](https://komarev.com/ghpvc/?username=omkarkardel&label=Profile%20Views&color=0e75b6&style=flat)
 
