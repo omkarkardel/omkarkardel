@@ -63,7 +63,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=omkarkardel&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
-<p align="center">Show some ❤️ by starring some repositories!</p>
+<p align="center">⭐ If you like my work, consider giving a star to the repositories!</p>
 
 
 
