@@ -5,10 +5,10 @@
 
 ---
 
-🎓 Undergraduate Student at MCOERC Nashik<br>
+🎓 Third Year IT Engineering Student at MCOERC Nashik<br>
 🌱 I’m currently exploring Cloud Computing and ML<br>
 💡 Passionate about creating efficient, scalable software solutions<br>
-🌐 My Portfolio: <a href="https://omkarport.netlify.app/" target="_blank">Visit Portfolio</a>
+🌐 Connect on Socials: <a href="https://linktr.ee/omkar1711" target="_blank">Click Here</a>
 <br>
 💬 Ask me about:
 <ul>
@@ -51,4 +51,4 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
