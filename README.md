@@ -8,7 +8,7 @@
 🎓 Third Year IT Engineering Student at MCOERC Nashik<br>
 🌱 I’m currently exploring Cloud Computing and ML<br>
 💡 Passionate about creating efficient, scalable software solutions<br>
-🌐 Coding Profiles & Socials: <a href="linkedin.com/in/omkar-kardel-96b855279">Click Here</a>
+🌐 Coding Profiles & Socials: <a href="#">Click Here</a>
 <br>
 💬 Ask me about:
 <ul>
