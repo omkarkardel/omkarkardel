@@ -6,7 +6,7 @@
 ---
 
 🎓 Third Year IT Engineering Student at MCOERC Nashik<br>
-🌱 I’m currently exploring Cloud & DevOps<br>
+🌱 I’m currently Learning Cloud & DevOps<br>
 💡 Passionate about creating efficient, scalable software solutions<br>
 🌐 Coding Profiles & Socials: <a href="https://omkarkardel-portfolio.vercel.app/">Click Here</a>
 <br>
