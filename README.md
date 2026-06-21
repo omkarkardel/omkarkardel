@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarkardel](https://github.com/omkarkardel)
 
-- 🌐 Visit my Portfolio [https://omkarkardel-portfolio.vercel.app/](https://omkarkardel-portfolio.vercel.app/)
+- 🌐 Visit my Portfolio [https://omkarkardel-portfolio.vercel.app/](##)
 
 - 💬 Ask me about **Web Development**
 
