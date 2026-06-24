@@ -31,10 +31,7 @@
 <a href="https://linkedin.com/in/omkar-kardel-96b855279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-kardel-96b855279" height="30" width="40" /></a>
 <a href="https://instagram.com/omkarkardel171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkarkardel171" height="30" width="40" /></a>
 <a href="https://medium.com/@omkarkardel175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omkarkardel175" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kardelomkar_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kardelomkar_17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omkarkardel175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkarkardel175" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kardelomkar_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kardelomkar_17" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/omkarkar9wz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<omkarkar9wz0>/profile" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
