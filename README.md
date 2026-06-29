@@ -19,9 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarkardel](https://github.com/omkarkardel)
 
-- 🌐 Visit my Portfolio [https://github.com](##)
-
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, DSA & Cloud**
 
 - 📫 How to reach me **omkarkardel175@gmail.com**
 
