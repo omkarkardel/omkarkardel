@@ -48,10 +48,6 @@ I'm a Full Stack Developer passionate about building modern, responsive, and sca
   <a href="https://www.geeksforgeeks.org/profile/omkarkar9wz0" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  
-  <a href="https://www.codechef.com/users/kardelomkar_17" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
 </p>
 
 
