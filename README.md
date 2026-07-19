@@ -7,8 +7,8 @@
 <h3 align="center">A passionate full stack developer & DevOps Enthusiast from India</h3>
 
 <!-- <h1 align="center">Hi 👋, I'm Aditya</h1> -->
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<!-- <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
 
 # 💫 About Me:
 I'm a Full Stack Developer passionate about building modern, responsive, and scalable web applications using the **MERN Stack**. <br>My primary technologies include **React.js, Node.js, Express.js, and MongoDB**, and I enjoy creating clean user interfaces, developing secure REST APIs, and designing efficient backend systems.<br><br>I'm also exploring **DevOps** by learning **Linux, Docker, AWS, Terraform, Jenkins, GitHub Actions, and Kubernetes** to understand application deployment, automation, and cloud infrastructure.<br>I'm always eager to learn new technologies, improve my problem-solving skills, contribute to open-source projects, and build solutions that deliver real-world value.<br>
