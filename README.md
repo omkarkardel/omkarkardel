@@ -2,9 +2,9 @@
 
 <h3 align="center">Full Stack Developer (MERN) | DevOps Enthusiast | Cloud & Automation | Lifelong Learner</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="./animation.gif" width="500" alt="Coding Animation">
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omkar-kardel-96b855279">
