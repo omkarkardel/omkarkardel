@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Kardel</h1>
 
-<h3 align="center">Full Stack Developer | DevOps Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Full Stack Developer(MERN) | DevOps Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="./animation.gif" width="500" alt="Coding Animation">
@@ -99,27 +99,6 @@ I'm a **Full Stack Developer** passionate about building modern, responsive, and
   <a href="https://www.geeksforgeeks.org/profile/omkarkar9wz0">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omkarkardel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarkardel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=omkarkardel&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarkardel&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
